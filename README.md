@@ -1,6 +1,5 @@
 # pong-clone
-# Simple Pong in Python 3 for Beginners
-# By @TokyoEdTech
+# Simple Pong in Python 
 
 import turtle
 import os
